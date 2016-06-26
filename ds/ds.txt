@@ -1,0 +1,7 @@
+"ds"
+{
+	"base"		"sandbox"
+	"title"		"Dishonorable Survivors"
+	"maps"		""
+	"menusystem" "1"
+}
